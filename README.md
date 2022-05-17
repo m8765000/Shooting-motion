@@ -1,3 +1,4 @@
+
 #  과제명 : Shotting-motion
 ## 팀명 : 1팀
 ### 팀장 및 참여학생 담담업무
@@ -51,4 +52,27 @@ ml을 활용한 자바스크립트 언어를 사용하여 만든 게임
 ```
 * 캐릭터를 왼쪽으로 이동시킬 때 쓰이는 모션   
 ![왼족](https://user-images.githubusercontent.com/62560931/168778113-a3c04569-5f1a-49c1-b299-de6b18e8d79e.PNG)
+
+* 캐릭터를 오른쪽으로 이동시킬때 쓰이는 모션   
+![오른쪽](https://user-images.githubusercontent.com/62560931/168778122-6084e410-ea2a-4014-9c71-9cbe480202b3.PNG)
+
 ​
+* 슈팅 게임화면      
+![sssssssssssssssssssssssssssssssss](https://user-images.githubusercontent.com/62560931/168778682-a1d1fe81-345b-438c-873e-9a2e83b65399.PNG)
+
+
+4.2. 기대효과 및 활용방안
+```
+게임뿐만 아니라 다양한 분야에서 적용 시킬 수 있으며, 학습시킨 데이터로 결과물의 정확성을 높이는 기대를 해볼 수 있습니다. 
+
+```
+##### 5.수행일정
+```
+1주차 자바스크립트로 게임 제작 
+2주차 ml을 활용하여 학습시키기
+3주차 유튜브 촬영
+4주차 유지보수
+```
+##### 6. 참고문헌 및 자료
+[Youtube : Coding Challenge #157: Zoom Annotations with Machine Learning + p5.js](https://www.youtube.com/watch?v=9z9mbiOZqSs&t=799s)
+92
