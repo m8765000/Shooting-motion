@@ -56,8 +56,8 @@ ml을 활용한 자바스크립트 언어를 사용하여 만든 게임
 ![오른쪽](https://user-images.githubusercontent.com/62560931/168778122-6084e410-ea2a-4014-9c71-9cbe480202b3.PNG)
 
 ​
-* 슈팅 게임화면      
-![sssssssssssssssssssssssssssssssss](https://user-images.githubusercontent.com/62560931/168778682-a1d1fe81-345b-438c-873e-9a2e83b65399.PNG)
+* 슈팅 게임화면(      
+<img width="332" alt="갤러그" src="https://user-images.githubusercontent.com/62591497/168782274-e1a5a3c7-b8db-46b3-ab01-a672a1b7ca5f.png">
 
 
 4.2. 기대효과 및 활용방안
@@ -74,4 +74,3 @@ ml을 활용한 자바스크립트 언어를 사용하여 만든 게임
 ```
 ##### 6. 참고문헌 및 자료
 [Youtube : Coding Challenge #157: Zoom Annotations with Machine Learning + p5.js](https://www.youtube.com/watch?v=9z9mbiOZqSs&t=799s)
-92
