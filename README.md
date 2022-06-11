@@ -59,6 +59,12 @@ ml을 활용한 자바스크립트 언어를 사용하여 만든 게임
 * 슈팅 게임화면(예시)      
 <img width="332" alt="갤러그" src="https://user-images.githubusercontent.com/62591497/168782274-e1a5a3c7-b8db-46b3-ab01-a672a1b7ca5f.png">
 
+4.2. 결과물
+
+
+https://user-images.githubusercontent.com/62591497/173173385-6c8faba3-97e5-462a-9546-4569a8ee5898.mp4
+
+
 
 4.2. 기대효과 및 활용방안
 ```
